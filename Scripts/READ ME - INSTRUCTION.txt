@@ -1,0 +1,11 @@
+Todas as variaveis, ou grande maioria, tem um ToolTip que explica um pouco do que é, além do Header que fica sobre ela...
+Colocando o mouse sobre a variavel, exibe a mensagem presente no tooltip para melhor identificação.
+
+O Player deve ter um Collider Trigger que segue a rotação da camera, ele servirá como alcance de interação por input.
+
+Todo item que for ser interagido através de fotos deverá receber a tag ( PhotoInteracts )
+Todo item que for ser interagido através de um input do jogador deverá receber a tag ( PlayerInteract )
+O Player deve ter a tag ( Player )
+
+
+A tela do celular que irá receber a renderização da camera fotográfica deve receber o material ( PhotoAUXRENDER )
